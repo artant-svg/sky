@@ -1,0 +1,61 @@
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\bin\Debug\net45\UlearnGame.exe.config
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\bin\Debug\net45\UlearnGame.exe
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\bin\Debug\net45\UlearnGame.pdb
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\bin\Debug\net45\System.Windows.Input.Manipulations.dll
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.csprojAssemblyReference.cache
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.MainForm.resources
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.Properties.Resources.resources
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.csproj.GenerateResource.cache
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.AssemblyInfoInputs.cache
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.AssemblyInfo.cs
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.csproj.CoreCompileInputs.cache
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.csproj.CopyComplete
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.exe
+C:\Users\User2\OneDrive\Рабочий стол\UlearnGame-main\UlearnGame\obj\Debug\net45\UlearnGame.pdb
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\bin\Debug\net45\UlearnGame.exe.config
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\bin\Debug\net45\UlearnGame.exe
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\bin\Debug\net45\UlearnGame.pdb
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\bin\Debug\net45\System.Windows.Input.Manipulations.dll
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.MainForm.resources
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.Properties.Resources.resources
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.csproj.GenerateResource.cache
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.AssemblyInfoInputs.cache
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.AssemblyInfo.cs
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.csproj.CoreCompileInputs.cache
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.csproj.CopyComplete
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.exe
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.pdb
+C:\Users\vorst\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.csprojAssemblyReference.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\bin\Debug\net45\UlearnGame.exe.config
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\bin\Debug\net45\UlearnGame.exe
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\bin\Debug\net45\UlearnGame.pdb
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\bin\Debug\net45\System.Windows.Input.Manipulations.dll
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.MainForm.resources
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.Properties.Resources.resources
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.csproj.GenerateResource.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.AssemblyInfoInputs.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.AssemblyInfo.cs
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.csproj.CoreCompileInputs.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.csproj.CopyComplete
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.exe
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.pdb
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.Menu.resources
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\UlearnGame.csprojAssemblyReference.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\bin\Debug\net45\UlearnGame.exe.config
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\bin\Debug\net45\UlearnGame.exe
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\bin\Debug\net45\UlearnGame.pdb
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\bin\Debug\net45\System.Windows.Input.Manipulations.dll
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.csprojAssemblyReference.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.MainForm.resources
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.Menu.resources
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.Properties.Resources.resources
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.csproj.GenerateResource.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.AssemblyInfoInputs.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.AssemblyInfo.cs
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.csproj.CoreCompileInputs.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.csproj.CopyComplete
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.exe
+C:\Users\User2\OneDrive\Рабочий стол\skybattle 1\UlearnGame\obj\Debug\net45\UlearnGame.pdb

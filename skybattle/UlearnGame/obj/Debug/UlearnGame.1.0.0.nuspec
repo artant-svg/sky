@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UlearnGame</id>
+    <version>1.0.0</version>
+    <authors>UlearnGame</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Messaging" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.5" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\bin\Debug\net45\UlearnGame.exe" target="lib\net45\UlearnGame.exe" />
+  </files>
+</package>

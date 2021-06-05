@@ -1,0 +1,9 @@
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\SkyBattle.csprojAssemblyReference.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\SkyBattle.MainForm.resources
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\SkyBattle.Menu.resources
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\SkyBattle.Properties.Resources.resources
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\SkyBattle.csproj.GenerateResource.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\SkyBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\SkyBattle.AssemblyInfoInputs.cache
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\SkyBattle.AssemblyInfo.cs
+C:\Users\User2\OneDrive\Рабочий стол\skybattle\UlearnGame\obj\Debug\net45\SkyBattle.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8nB7r7GHdxvWVDHY9Xi3GSNLVElMjutuUkCQmt8It8vpXbyznrgwd5hkPfO0QbgHY7W2JcXYFpiLDc40M1HWsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User2\\OneDrive\\Рабочий стол\\Skybattle-main\\skybattle\\UlearnGameTests\\UlearnGameTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User2\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\User2\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\User2\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\User2\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
